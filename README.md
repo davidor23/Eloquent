@@ -1,4 +1,4 @@
-### Eloquent by David O'Reilly is a responsive template for a card company, similar to Revolut. Built using React and hosted + deployed on :fire :fire: :fire: firebase :fire: :fire: :fire:
+### Eloquent by David O'Reilly is a responsive template for a card company, similar to Revolut. Built using React and hosted + deployed on :fire: :fire: :fire: firebase :fire: :fire: :fire:
 
 ## :rocket: LIVE EXAMPLE LINK: https://eloquent-react.web.app/
 
